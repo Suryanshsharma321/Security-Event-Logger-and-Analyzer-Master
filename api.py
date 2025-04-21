@@ -4,7 +4,7 @@ import requests
 import json
 import logging
 
-app = Flask(__name__)
+app = Flask(__name__) 
 CORS(app)
 
 logging.basicConfig(level=logging.DEBUG)
