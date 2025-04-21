@@ -28,7 +28,7 @@ git clone https://github.com/its-sujeet/os_project.git
 
 ### 2. Navigate to the dashboard directory
 
-Move into the project folder:
+Move into the project folder: 
 
 ```bash
 cd os-security-log-dashboard/security-dashboard/dashboard
